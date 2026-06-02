@@ -45,7 +45,7 @@ The project successfully demonstrates touchless robotic arm control using hand g
 
 ## Developer
 
-**Rohit Kumar Saini , **
+**Rohit Kumar Saini**,
 **Sameer Khan**
 
 B.Tech, Instrumentation and Control Engineering
